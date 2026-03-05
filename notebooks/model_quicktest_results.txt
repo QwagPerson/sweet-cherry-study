@@ -1,0 +1,24 @@
+Resumen de resultados en validación:
+Baseline MAE: 5.5226 y (R^2: 0.0000)
+Linear Regression MAE: 3.7979 y (R^2: 0.4402)
+Ridge MAE: 3.7979 y (R^2: 0.4402)
+Random Forest MAE: 4.3413 y (R^2: 0.2920)
+XGBoost MAE: 3.8945 y (R^2: 0.3850)
+Mejor modelo en validación: Linear Regression con R^2 = 0.4402
+
+Desempeño en test del Baseline (predice media):
+MAE test: 4.9169
+R^2 test: 0.0000
+Desempeño en test del mejor modelo (Linear Regression):
+MAE test: 3.3548
+R^2 test: 0.4504
+
+Desempeño por variedad en test:
+Variedad 2: MAE = 4.5862 | BaselineMAE = 5.5135
+Variedad 0: MAE = 2.2560 | BaselineMAE = 3.5909
+Variedad 1: MAE = 3.2252 | BaselineMAE = 6.1971
+
+variedad_id,variedad
+0,regina
+1,santina
+2,kordia
