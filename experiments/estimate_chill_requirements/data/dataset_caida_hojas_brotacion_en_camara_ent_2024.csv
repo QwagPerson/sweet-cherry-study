@@ -1,0 +1,421 @@
+key;caida_de_hojas_date;brotacion_en_camara_50_date;dias_acumulando_frio;zona;variedad;ue_str;tratamiento;ue_int
+Melipilla-Santina-001-Zn+Eth;08-05-2024;09-07-2024;62;melipilla;santina;001;zn+eth;1
+Melipilla-Santina-002-Fsh;08-05-2024;12-07-2024;65;melipilla;santina;002;fsh;2
+Melipilla-Santina-003-Control;08-05-2024;12-07-2024;65;melipilla;santina;003;control;3
+Melipilla-Santina-004-Zn+U+Eth;08-05-2024;12-07-2024;65;melipilla;santina;004;zn+u+eth;4
+Melipilla-Santina-005-Ethephon;15-05-2024;12-07-2024;58;melipilla;santina;005;ethephon;5
+Melipilla-Santina-006-ABA;15-05-2024;12-07-2024;58;melipilla;santina;006;aba;6
+Melipilla-Santina-007-Zn+U+Eth;08-05-2024;12-07-2024;65;melipilla;santina;007;zn+u+eth;7
+Melipilla-Santina-008-Control;15-05-2024;09-07-2024;55;melipilla;santina;008;control;8
+Melipilla-Santina-009-Fsh;08-05-2024;12-07-2024;65;melipilla;santina;009;fsh;9
+Melipilla-Santina-010-ABA;08-05-2024;12-07-2024;65;melipilla;santina;010;aba;10
+Melipilla-Santina-011-Zn+Eth;08-05-2024;10-07-2024;63;melipilla;santina;011;zn+eth;11
+Melipilla-Santina-012-Ethephon;15-05-2024;12-07-2024;58;melipilla;santina;012;ethephon;12
+Melipilla-Santina-013-Zn+U+Eth;08-05-2024;12-07-2024;65;melipilla;santina;013;zn+u+eth;13
+Melipilla-Santina-014-ABA;08-05-2024;11-07-2024;64;melipilla;santina;014;aba;14
+Melipilla-Santina-015-Fsh;08-05-2024;12-07-2024;65;melipilla;santina;015;fsh;15
+Melipilla-Santina-016-Control;15-05-2024;12-07-2024;58;melipilla;santina;016;control;16
+Melipilla-Santina-017-Ethephon;08-05-2024;12-07-2024;65;melipilla;santina;017;ethephon;17
+Melipilla-Santina-018-Zn+Eth;08-05-2024;10-07-2024;63;melipilla;santina;018;zn+eth;18
+Melipilla-Santina-019-Ethephon;15-05-2024;12-07-2024;58;melipilla;santina;019;ethephon;19
+Melipilla-Santina-020-Fsh;08-05-2024;12-07-2024;65;melipilla;santina;020;fsh;20
+Melipilla-Santina-021-Zn+U+Eth;08-05-2024;12-07-2024;65;melipilla;santina;021;zn+u+eth;21
+Melipilla-Santina-022-Zn+Eth;08-05-2024;30-06-2024;53;melipilla;santina;022;zn+eth;22
+Melipilla-Santina-023-Control;15-05-2024;11-07-2024;57;melipilla;santina;023;control;23
+Melipilla-Santina-024-ABA;08-05-2024;12-07-2024;65;melipilla;santina;024;aba;24
+Melipilla-Santina-025-Zn+U+Eth;08-05-2024;09-07-2024;62;melipilla;santina;025;zn+u+eth;25
+Melipilla-Santina-026-Ethephon;15-05-2024;08-07-2024;54;melipilla;santina;026;ethephon;26
+Melipilla-Santina-027-Control;15-05-2024;12-07-2024;58;melipilla;santina;027;control;27
+Melipilla-Santina-028-Zn+Eth;08-05-2024;07-07-2024;60;melipilla;santina;028;zn+eth;28
+Melipilla-Santina-029-Fsh;08-05-2024;11-07-2024;64;melipilla;santina;029;fsh;29
+Melipilla-Santina-030-ABA;08-05-2024;10-07-2024;63;melipilla;santina;030;aba;30
+Pichidegua-Santina-001-Zn+Eth;08-05-2024;12-07-2024;65;pichidegua;santina;001;zn+eth;1
+Pichidegua-Santina-002-Fsh;10-05-2024;11-07-2024;62;pichidegua;santina;002;fsh;2
+Pichidegua-Santina-003-Control;15-05-2024;10-07-2024;55;pichidegua;santina;003;control;3
+Pichidegua-Santina-004-Zn+U+Eth;03-05-2024;14-07-2024;71;pichidegua;santina;004;zn+u+eth;4
+Pichidegua-Santina-005-Ethephon;11-05-2024;13-07-2024;63;pichidegua;santina;005;ethephon;5
+Pichidegua-Santina-006-ABA;05-05-2024;15-07-2024;71;pichidegua;santina;006;aba;6
+Pichidegua-Santina-007-Zn+U+Eth;08-05-2024;10-07-2024;62;pichidegua;santina;007;zn+u+eth;7
+Pichidegua-Santina-008-Control;13-05-2024;03-07-2024;50;pichidegua;santina;008;control;8
+Pichidegua-Santina-009-Fsh;12-05-2024;12-07-2024;60;pichidegua;santina;009;fsh;9
+Pichidegua-Santina-010-ABA;03-05-2024;08-07-2024;65;pichidegua;santina;010;aba;10
+Pichidegua-Santina-011-Zn+Eth;03-05-2024;09-07-2024;66;pichidegua;santina;011;zn+eth;11
+Pichidegua-Santina-012-Ethephon;13-05-2024;05-07-2024;52;pichidegua;santina;012;ethephon;12
+Pichidegua-Santina-013-Zn+U+Eth;06-05-2024;09-07-2024;64;pichidegua;santina;013;zn+u+eth;13
+Pichidegua-Santina-014-ABA;05-05-2024;08-07-2024;64;pichidegua;santina;014;aba;14
+Pichidegua-Santina-015-Fsh;11-05-2024;14-07-2024;63;pichidegua;santina;015;fsh;15
+Pichidegua-Santina-016-Control;14-05-2024;07-07-2024;53;pichidegua;santina;016;control;16
+Pichidegua-Santina-017-Ethephon;10-05-2024;16-07-2024;66;pichidegua;santina;017;ethephon;17
+Pichidegua-Santina-018-Zn+Eth;04-05-2024;12-07-2024;68;pichidegua;santina;018;zn+eth;18
+Pichidegua-Santina-019-Ethephon;12-05-2024;13-07-2024;61;pichidegua;santina;019;ethephon;19
+Pichidegua-Santina-020-Fsh;09-05-2024;13-07-2024;64;pichidegua;santina;020;fsh;20
+Pichidegua-Santina-021-Zn+U+Eth;06-05-2024;04-07-2024;58;pichidegua;santina;021;zn+u+eth;21
+Pichidegua-Santina-022-Zn+Eth;04-05-2024;05-07-2024;61;pichidegua;santina;022;zn+eth;22
+Pichidegua-Santina-023-Control;15-05-2024;11-07-2024;57;pichidegua;santina;023;control;23
+Pichidegua-Santina-024-ABA;09-05-2024;12-07-2024;63;pichidegua;santina;024;aba;24
+Pichidegua-Santina-025-Zn+U+Eth;08-05-2024;13-07-2024;66;pichidegua;santina;025;zn+u+eth;25
+Pichidegua-Santina-026-Ethephon;13-05-2024;04-07-2024;51;pichidegua;santina;026;ethephon;26
+Pichidegua-Santina-027-Control;13-05-2024;12-07-2024;59;pichidegua;santina;027;control;27
+Pichidegua-Santina-028-Zn+Eth;05-05-2024;16-07-2024;71;pichidegua;santina;028;zn+eth;28
+Pichidegua-Santina-029-Fsh;09-05-2024;07-07-2024;58;pichidegua;santina;029;fsh;29
+Pichidegua-Santina-030-ABA;09-05-2024;07-07-2024;58;pichidegua;santina;030;aba;30
+Sarmiento-Kordia-001-Zn+Eth;14-05-2024;09-07-2024;55;sarmiento;kordia;001;zn+eth;1
+Sarmiento-Kordia-002-Fsh;14-05-2024;02-07-2024;48;sarmiento;kordia;002;fsh;2
+Sarmiento-Kordia-003-Control;18-05-2024;09-07-2024;52;sarmiento;kordia;003;control;3
+Sarmiento-Kordia-004-Zn+U+Eth;14-05-2024;14-07-2024;60;sarmiento;kordia;004;zn+u+eth;4
+Sarmiento-Kordia-005-Ethephon;12-05-2024;05-07-2024;53;sarmiento;kordia;005;ethephon;5
+Sarmiento-Kordia-006-ABA;11-05-2024;10-07-2024;59;sarmiento;kordia;006;aba;6
+Sarmiento-Kordia-007-Zn+U+Eth;14-05-2024;11-07-2024;57;sarmiento;kordia;007;zn+u+eth;7
+Sarmiento-Kordia-008-Control;18-05-2024;12-07-2024;55;sarmiento;kordia;008;control;8
+Sarmiento-Kordia-009-Fsh;13-05-2024;11-07-2024;58;sarmiento;kordia;009;fsh;9
+Sarmiento-Kordia-010-ABA;12-05-2024;15-07-2024;64;sarmiento;kordia;010;aba;10
+Sarmiento-Kordia-011-Zn+Eth;11-05-2024;15-07-2024;65;sarmiento;kordia;011;zn+eth;11
+Sarmiento-Kordia-012-Ethephon;14-05-2024;13-07-2024;59;sarmiento;kordia;012;ethephon;12
+Sarmiento-Kordia-013-Zn+U+Eth;12-05-2024;14-07-2024;63;sarmiento;kordia;013;zn+u+eth;13
+Sarmiento-Kordia-014-ABA;10-05-2024;08-07-2024;59;sarmiento;kordia;014;aba;14
+Sarmiento-Kordia-015-Fsh;12-05-2024;04-07-2024;52;sarmiento;kordia;015;fsh;15
+Sarmiento-Kordia-016-Control;16-05-2024;11-07-2024;56;sarmiento;kordia;016;control;16
+Sarmiento-Kordia-017-Ethephon;12-05-2024;10-07-2024;59;sarmiento;kordia;017;ethephon;17
+Sarmiento-Kordia-018-Zn+Eth;12-05-2024;11-07-2024;59;sarmiento;kordia;018;zn+eth;18
+Sarmiento-Kordia-019-Ethephon;18-05-2024;10-07-2024;53;sarmiento;kordia;019;ethephon;19
+Sarmiento-Kordia-020-Fsh;14-05-2024;14-07-2024;60;sarmiento;kordia;020;fsh;20
+Sarmiento-Kordia-021-Zn+U+Eth;12-05-2024;01-07-2024;49;sarmiento;kordia;021;zn+u+eth;21
+Sarmiento-Kordia-022-Zn+Eth;12-05-2024;15-07-2024;63;sarmiento;kordia;022;zn+eth;22
+Sarmiento-Kordia-023-Control;18-05-2024;01-07-2024;44;sarmiento;kordia;023;control;23
+Sarmiento-Kordia-024-ABA;10-05-2024;05-07-2024;55;sarmiento;kordia;024;aba;24
+Sarmiento-Kordia-025-Zn+U+Eth;14-05-2024;12-07-2024;58;sarmiento;kordia;025;zn+u+eth;25
+Sarmiento-Kordia-026-Ethephon;12-05-2024;05-07-2024;54;sarmiento;kordia;026;ethephon;26
+Sarmiento-Kordia-027-Control;18-05-2024;05-07-2024;48;sarmiento;kordia;027;control;27
+Sarmiento-Kordia-028-Zn+Eth;10-05-2024;03-07-2024;53;sarmiento;kordia;028;zn+eth;28
+Sarmiento-Kordia-029-Fsh;12-05-2024;11-07-2024;60;sarmiento;kordia;029;fsh;29
+Sarmiento-Kordia-030-ABA;10-05-2024;11-07-2024;62;sarmiento;kordia;030;aba;30
+Sarmiento-Regina-001-Zn+Eth;09-05-2024;#N/A;#N/A;sarmiento;regina;001;zn+eth;1
+Sarmiento-Regina-002-Fsh;07-05-2024;#N/A;#N/A;sarmiento;regina;002;fsh;2
+Sarmiento-Regina-003-Control;09-05-2024;#N/A;#N/A;sarmiento;regina;003;control;3
+Sarmiento-Regina-004-Zn+U+Eth;10-05-2024;#N/A;#N/A;sarmiento;regina;004;zn+u+eth;4
+Sarmiento-Regina-005-Ethephon;13-05-2024;#N/A;#N/A;sarmiento;regina;005;ethephon;5
+Sarmiento-Regina-006-ABA;10-05-2024;#N/A;#N/A;sarmiento;regina;006;aba;6
+Sarmiento-Regina-007-Zn+U+Eth;09-05-2024;#N/A;#N/A;sarmiento;regina;007;zn+u+eth;7
+Sarmiento-Regina-008-Control;08-05-2024;#N/A;#N/A;sarmiento;regina;008;control;8
+Sarmiento-Regina-009-Fsh;08-05-2024;#N/A;#N/A;sarmiento;regina;009;fsh;9
+Sarmiento-Regina-010-ABA;10-05-2024;#N/A;#N/A;sarmiento;regina;010;aba;10
+Sarmiento-Regina-011-Zn+Eth;08-05-2024;#N/A;#N/A;sarmiento;regina;011;zn+eth;11
+Sarmiento-Regina-012-Ethephon;07-05-2024;#N/A;#N/A;sarmiento;regina;012;ethephon;12
+Sarmiento-Regina-013-Zn+U+Eth;10-05-2024;#N/A;#N/A;sarmiento;regina;013;zn+u+eth;13
+Sarmiento-Regina-014-ABA;09-05-2024;#N/A;#N/A;sarmiento;regina;014;aba;14
+Sarmiento-Regina-015-Fsh;10-05-2024;#N/A;#N/A;sarmiento;regina;015;fsh;15
+Sarmiento-Regina-016-Control;14-05-2024;#N/A;#N/A;sarmiento;regina;016;control;16
+Sarmiento-Regina-017-Ethephon;14-05-2024;#N/A;#N/A;sarmiento;regina;017;ethephon;17
+Sarmiento-Regina-018-Zn+Eth;10-05-2024;#N/A;#N/A;sarmiento;regina;018;zn+eth;18
+Sarmiento-Regina-019-Ethephon;14-05-2024;#N/A;#N/A;sarmiento;regina;019;ethephon;19
+Sarmiento-Regina-020-Fsh;14-05-2024;#N/A;#N/A;sarmiento;regina;020;fsh;20
+Sarmiento-Regina-021-Zn+U+Eth;14-05-2024;#N/A;#N/A;sarmiento;regina;021;zn+u+eth;21
+Sarmiento-Regina-022-Zn+Eth;10-05-2024;#N/A;#N/A;sarmiento;regina;022;zn+eth;22
+Sarmiento-Regina-023-Control;14-05-2024;#N/A;#N/A;sarmiento;regina;023;control;23
+Sarmiento-Regina-024-ABA;06-05-2024;#N/A;#N/A;sarmiento;regina;024;aba;24
+Sarmiento-Regina-025-Zn+U+Eth;06-05-2024;#N/A;#N/A;sarmiento;regina;025;zn+u+eth;25
+Sarmiento-Regina-026-Ethephon;14-05-2024;#N/A;#N/A;sarmiento;regina;026;ethephon;26
+Sarmiento-Regina-027-Control;14-05-2024;#N/A;#N/A;sarmiento;regina;027;control;27
+Sarmiento-Regina-028-Zn+Eth;08-05-2024;#N/A;#N/A;sarmiento;regina;028;zn+eth;28
+Sarmiento-Regina-029-Fsh;10-05-2024;#N/A;#N/A;sarmiento;regina;029;fsh;29
+Sarmiento-Regina-030-ABA;07-05-2024;#N/A;#N/A;sarmiento;regina;030;aba;30
+Sta Magdalena (Los Niches 2)-Regina-001-Zn+Eth;09-05-2024;02-08-2024;84;sta magdalena (los niches 2);regina;001;zn+eth;1
+Sta Magdalena (Los Niches 2)-Regina-002-Fsh;12-05-2024;29-07-2024;78;sta magdalena (los niches 2);regina;002;fsh;2
+Sta Magdalena (Los Niches 2)-Regina-003-Control;10-05-2024;02-08-2024;83;sta magdalena (los niches 2);regina;003;control;3
+Sta Magdalena (Los Niches 2)-Regina-004-Zn+U+Eth;11-05-2024;02-08-2024;82;sta magdalena (los niches 2);regina;004;zn+u+eth;4
+Sta Magdalena (Los Niches 2)-Regina-005-Ethephon;11-05-2024;02-08-2024;82;sta magdalena (los niches 2);regina;005;ethephon;5
+Sta Magdalena (Los Niches 2)-Regina-006-ABA;08-05-2024;02-08-2024;85;sta magdalena (los niches 2);regina;006;aba;6
+Sta Magdalena (Los Niches 2)-Regina-007-Zn+U+Eth;06-05-2024;29-07-2024;83;sta magdalena (los niches 2);regina;007;zn+u+eth;7
+Sta Magdalena (Los Niches 2)-Regina-008-Control;10-05-2024;02-08-2024;83;sta magdalena (los niches 2);regina;008;control;8
+Sta Magdalena (Los Niches 2)-Regina-009-Fsh;11-05-2024;02-08-2024;82;sta magdalena (los niches 2);regina;009;fsh;9
+Sta Magdalena (Los Niches 2)-Regina-010-ABA;09-05-2024;02-08-2024;84;sta magdalena (los niches 2);regina;010;aba;10
+Sta Magdalena (Los Niches 2)-Regina-011-Zn+Eth;08-05-2024;02-08-2024;85;sta magdalena (los niches 2);regina;011;zn+eth;11
+Sta Magdalena (Los Niches 2)-Regina-012-Ethephon;11-05-2024;02-08-2024;82;sta magdalena (los niches 2);regina;012;ethephon;12
+Sta Magdalena (Los Niches 2)-Regina-013-Zn+U+Eth;08-05-2024;30-07-2024;82;sta magdalena (los niches 2);regina;013;zn+u+eth;13
+Sta Magdalena (Los Niches 2)-Regina-014-ABA;08-05-2024;02-08-2024;85;sta magdalena (los niches 2);regina;014;aba;14
+Sta Magdalena (Los Niches 2)-Regina-015-Fsh;12-05-2024;02-08-2024;81;sta magdalena (los niches 2);regina;015;fsh;15
+Sta Magdalena (Los Niches 2)-Regina-016-Control;12-05-2024;31-07-2024;80;sta magdalena (los niches 2);regina;016;control;16
+Sta Magdalena (Los Niches 2)-Regina-017-Ethephon;12-05-2024;02-08-2024;81;sta magdalena (los niches 2);regina;017;ethephon;17
+Sta Magdalena (Los Niches 2)-Regina-018-Zn+Eth;10-05-2024;02-08-2024;84;sta magdalena (los niches 2);regina;018;zn+eth;18
+Sta Magdalena (Los Niches 2)-Regina-019-Ethephon;13-05-2024;02-08-2024;80;sta magdalena (los niches 2);regina;019;ethephon;19
+Sta Magdalena (Los Niches 2)-Regina-020-Fsh;14-05-2024;02-08-2024;79;sta magdalena (los niches 2);regina;020;fsh;20
+Sta Magdalena (Los Niches 2)-Regina-021-Zn+U+Eth;13-05-2024;02-08-2024;80;sta magdalena (los niches 2);regina;021;zn+u+eth;21
+Sta Magdalena (Los Niches 2)-Regina-022-Zn+Eth;10-05-2024;02-08-2024;83;sta magdalena (los niches 2);regina;022;zn+eth;22
+Sta Magdalena (Los Niches 2)-Regina-023-Control;12-05-2024;31-07-2024;79;sta magdalena (los niches 2);regina;023;control;23
+Sta Magdalena (Los Niches 2)-Regina-024-ABA;07-05-2024;02-08-2024;86;sta magdalena (los niches 2);regina;024;aba;24
+Sta Magdalena (Los Niches 2)-Regina-025-Zn+U+Eth;10-05-2024;02-08-2024;83;sta magdalena (los niches 2);regina;025;zn+u+eth;25
+Sta Magdalena (Los Niches 2)-Regina-026-Ethephon;10-05-2024;02-08-2024;83;sta magdalena (los niches 2);regina;026;ethephon;26
+Sta Magdalena (Los Niches 2)-Regina-027-Control;12-05-2024;26-07-2024;75;sta magdalena (los niches 2);regina;027;control;27
+Sta Magdalena (Los Niches 2)-Regina-028-Zn+Eth;08-05-2024;02-08-2024;85;sta magdalena (los niches 2);regina;028;zn+eth;28
+Sta Magdalena (Los Niches 2)-Regina-029-Fsh;10-05-2024;02-08-2024;83;sta magdalena (los niches 2);regina;029;fsh;29
+Sta Magdalena (Los Niches 2)-Regina-030-ABA;08-05-2024;02-08-2024;85;sta magdalena (los niches 2);regina;030;aba;30
+Teno Monta�a-Kordia-001-Zn+Eth;12-05-2024;15-07-2024;63;teno monta�a;kordia;001;zn+eth;1
+Teno Monta�a-Kordia-002-Fsh;12-05-2024;15-07-2024;64;teno monta�a;kordia;002;fsh;2
+Teno Monta�a-Kordia-003-Control;12-05-2024;14-07-2024;63;teno monta�a;kordia;003;control;3
+Teno Monta�a-Kordia-004-Zn+U+Eth;12-05-2024;16-07-2024;65;teno monta�a;kordia;004;zn+u+eth;4
+Teno Monta�a-Kordia-005-Ethephon;12-05-2024;13-07-2024;61;teno monta�a;kordia;005;ethephon;5
+Teno Monta�a-Kordia-006-ABA;12-05-2024;07-07-2024;55;teno monta�a;kordia;006;aba;6
+Teno Monta�a-Kordia-007-Zn+U+Eth;12-05-2024;15-07-2024;63;teno monta�a;kordia;007;zn+u+eth;7
+Teno Monta�a-Kordia-008-Control;12-05-2024;09-07-2024;57;teno monta�a;kordia;008;control;8
+Teno Monta�a-Kordia-009-Fsh;12-05-2024;17-07-2024;65;teno monta�a;kordia;009;fsh;9
+Teno Monta�a-Kordia-010-ABA;12-05-2024;10-07-2024;59;teno monta�a;kordia;010;aba;10
+Teno Monta�a-Kordia-011-Zn+Eth;10-05-2024;13-07-2024;63;teno monta�a;kordia;011;zn+eth;11
+Teno Monta�a-Kordia-012-Ethephon;13-05-2024;17-07-2024;64;teno monta�a;kordia;012;ethephon;12
+Teno Monta�a-Kordia-013-Zn+U+Eth;12-05-2024;13-07-2024;61;teno monta�a;kordia;013;zn+u+eth;13
+Teno Monta�a-Kordia-014-ABA;12-05-2024;15-07-2024;63;teno monta�a;kordia;014;aba;14
+Teno Monta�a-Kordia-015-Fsh;11-05-2024;13-07-2024;62;teno monta�a;kordia;015;fsh;15
+Teno Monta�a-Kordia-016-Control;12-05-2024;13-07-2024;61;teno monta�a;kordia;016;control;16
+Teno Monta�a-Kordia-017-Ethephon;12-05-2024;17-07-2024;65;teno monta�a;kordia;017;ethephon;17
+Teno Monta�a-Kordia-018-Zn+Eth;12-05-2024;13-07-2024;62;teno monta�a;kordia;018;zn+eth;18
+Teno Monta�a-Kordia-019-Ethephon;12-05-2024;15-07-2024;63;teno monta�a;kordia;019;ethephon;19
+Teno Monta�a-Kordia-020-Fsh;13-05-2024;17-07-2024;64;teno monta�a;kordia;020;fsh;20
+Teno Monta�a-Kordia-021-Zn+U+Eth;12-05-2024;16-07-2024;64;teno monta�a;kordia;021;zn+u+eth;21
+Teno Monta�a-Kordia-022-Zn+Eth;12-05-2024;14-07-2024;62;teno monta�a;kordia;022;zn+eth;22
+Teno Monta�a-Kordia-023-Control;12-05-2024;11-07-2024;60;teno monta�a;kordia;023;control;23
+Teno Monta�a-Kordia-024-ABA;12-05-2024;11-07-2024;60;teno monta�a;kordia;024;aba;24
+Teno Monta�a-Kordia-025-Zn+U+Eth;12-05-2024;15-07-2024;63;teno monta�a;kordia;025;zn+u+eth;25
+Teno Monta�a-Kordia-026-Ethephon;12-05-2024;17-07-2024;65;teno monta�a;kordia;026;ethephon;26
+Teno Monta�a-Kordia-027-Control;10-05-2024;12-07-2024;62;teno monta�a;kordia;027;control;27
+Teno Monta�a-Kordia-028-Zn+Eth;12-05-2024;13-07-2024;62;teno monta�a;kordia;028;zn+eth;28
+Teno Monta�a-Kordia-029-Fsh;10-05-2024;16-07-2024;66;teno monta�a;kordia;029;fsh;29
+Teno Monta�a-Kordia-030-ABA;10-05-2024;07-07-2024;57;teno monta�a;kordia;030;aba;30
+Teno Monta�a-Regina-001-Zn+Eth;07-05-2024;29-06-2024;52;teno monta�a;regina;001;zn+eth;1
+Teno Monta�a-Regina-002-Fsh;09-05-2024;15-07-2024;67;teno monta�a;regina;002;fsh;2
+Teno Monta�a-Regina-003-Control;18-05-2024;04-07-2024;46;teno monta�a;regina;003;control;3
+Teno Monta�a-Regina-004-Zn+U+Eth;12-05-2024;30-06-2024;49;teno monta�a;regina;004;zn+u+eth;4
+Teno Monta�a-Regina-005-Ethephon;12-05-2024;07-07-2024;56;teno monta�a;regina;005;ethephon;5
+Teno Monta�a-Regina-006-ABA;12-05-2024;07-07-2024;55;teno monta�a;regina;006;aba;6
+Teno Monta�a-Regina-007-Zn+U+Eth;10-05-2024;13-07-2024;64;teno monta�a;regina;007;zn+u+eth;7
+Teno Monta�a-Regina-008-Control;14-05-2024;07-07-2024;53;teno monta�a;regina;008;control;8
+Teno Monta�a-Regina-009-Fsh;15-05-2024;07-07-2024;52;teno monta�a;regina;009;fsh;9
+Teno Monta�a-Regina-010-ABA;12-05-2024;07-07-2024;55;teno monta�a;regina;010;aba;10
+Teno Monta�a-Regina-011-Zn+Eth;09-05-2024;15-07-2024;67;teno monta�a;regina;011;zn+eth;11
+Teno Monta�a-Regina-012-Ethephon;15-05-2024;16-07-2024;61;teno monta�a;regina;012;ethephon;12
+Teno Monta�a-Regina-013-Zn+U+Eth;13-05-2024;05-07-2024;53;teno monta�a;regina;013;zn+u+eth;13
+Teno Monta�a-Regina-014-ABA;12-05-2024;02-07-2024;51;teno monta�a;regina;014;aba;14
+Teno Monta�a-Regina-015-Fsh;14-05-2024;07-07-2024;54;teno monta�a;regina;015;fsh;15
+Teno Monta�a-Regina-016-Control;12-05-2024;08-07-2024;57;teno monta�a;regina;016;control;16
+Teno Monta�a-Regina-017-Ethephon;14-05-2024;11-07-2024;58;teno monta�a;regina;017;ethephon;17
+Teno Monta�a-Regina-018-Zn+Eth;09-05-2024;10-07-2024;62;teno monta�a;regina;018;zn+eth;18
+Teno Monta�a-Regina-019-Ethephon;12-05-2024;04-07-2024;52;teno monta�a;regina;019;ethephon;19
+Teno Monta�a-Regina-020-Fsh;16-05-2024;17-07-2024;61;teno monta�a;regina;020;fsh;20
+Teno Monta�a-Regina-021-Zn+U+Eth;09-05-2024;03-07-2024;55;teno monta�a;regina;021;zn+u+eth;21
+Teno Monta�a-Regina-022-Zn+Eth;14-05-2024;09-07-2024;56;teno monta�a;regina;022;zn+eth;22
+Teno Monta�a-Regina-023-Control;15-05-2024;09-07-2024;54;teno monta�a;regina;023;control;23
+Teno Monta�a-Regina-024-ABA;12-05-2024;04-07-2024;53;teno monta�a;regina;024;aba;24
+Teno Monta�a-Regina-025-Zn+U+Eth;12-05-2024;06-07-2024;55;teno monta�a;regina;025;zn+u+eth;25
+Teno Monta�a-Regina-026-Ethephon;12-05-2024;12-07-2024;60;teno monta�a;regina;026;ethephon;26
+Teno Monta�a-Regina-027-Control;15-05-2024;09-07-2024;55;teno monta�a;regina;027;control;27
+Teno Monta�a-Regina-028-Zn+Eth;10-05-2024;12-07-2024;63;teno monta�a;regina;028;zn+eth;28
+Teno Monta�a-Regina-029-Fsh;12-05-2024;12-07-2024;61;teno monta�a;regina;029;fsh;29
+Teno Monta�a-Regina-030-ABA;12-05-2024;03-07-2024;52;teno monta�a;regina;030;aba;30
+Teno Oriente-Kordia-001-Zn+Eth;12-05-2024;10-07-2024;59;teno oriente;kordia;001;zn+eth;1
+Teno Oriente-Kordia-002-Fsh;12-05-2024;11-07-2024;60;teno oriente;kordia;002;fsh;2
+Teno Oriente-Kordia-003-Control;11-05-2024;03-07-2024;53;teno oriente;kordia;003;control;3
+Teno Oriente-Kordia-004-Zn+U+Eth;11-05-2024;30-06-2024;50;teno oriente;kordia;004;zn+u+eth;4
+Teno Oriente-Kordia-005-Ethephon;11-05-2024;01-07-2024;51;teno oriente;kordia;005;ethephon;5
+Teno Oriente-Kordia-006-ABA;11-05-2024;03-07-2024;52;teno oriente;kordia;006;aba;6
+Teno Oriente-Kordia-007-Zn+U+Eth;13-05-2024;05-07-2024;53;teno oriente;kordia;007;zn+u+eth;7
+Teno Oriente-Kordia-008-Control;14-05-2024;04-07-2024;50;teno oriente;kordia;008;control;8
+Teno Oriente-Kordia-009-Fsh;11-05-2024;13-07-2024;62;teno oriente;kordia;009;fsh;9
+Teno Oriente-Kordia-010-ABA;09-05-2024;07-07-2024;59;teno oriente;kordia;010;aba;10
+Teno Oriente-Kordia-011-Zn+Eth;06-05-2024;05-07-2024;60;teno oriente;kordia;011;zn+eth;11
+Teno Oriente-Kordia-012-Ethephon;06-05-2024;04-07-2024;59;teno oriente;kordia;012;ethephon;12
+Teno Oriente-Kordia-013-Zn+U+Eth;10-05-2024;08-07-2024;59;teno oriente;kordia;013;zn+u+eth;13
+Teno Oriente-Kordia-014-ABA;09-05-2024;02-07-2024;54;teno oriente;kordia;014;aba;14
+Teno Oriente-Kordia-015-Fsh;18-05-2024;17-07-2024;59;teno oriente;kordia;015;fsh;15
+Teno Oriente-Kordia-016-Control;17-05-2024;08-07-2024;51;teno oriente;kordia;016;control;16
+Teno Oriente-Kordia-017-Ethephon;14-05-2024;30-06-2024;47;teno oriente;kordia;017;ethephon;17
+Teno Oriente-Kordia-018-Zn+Eth;16-05-2024;27-06-2024;41;teno oriente;kordia;018;zn+eth;18
+Teno Oriente-Kordia-019-Ethephon;21-05-2024;02-07-2024;41;teno oriente;kordia;019;ethephon;19
+Teno Oriente-Kordia-020-Fsh;21-05-2024;13-07-2024;52;teno oriente;kordia;020;fsh;20
+Teno Oriente-Kordia-021-Zn+U+Eth;13-05-2024;05-07-2024;53;teno oriente;kordia;021;zn+u+eth;21
+Teno Oriente-Kordia-022-Zn+Eth;13-05-2024;02-07-2024;50;teno oriente;kordia;022;zn+eth;22
+Teno Oriente-Kordia-023-Control;14-05-2024;01-07-2024;47;teno oriente;kordia;023;control;23
+Teno Oriente-Kordia-024-ABA;13-05-2024;05-07-2024;53;teno oriente;kordia;024;aba;24
+Teno Oriente-Kordia-025-Zn+U+Eth;10-05-2024;06-07-2024;57;teno oriente;kordia;025;zn+u+eth;25
+Teno Oriente-Kordia-026-Ethephon;06-05-2024;14-07-2024;69;teno oriente;kordia;026;ethephon;26
+Teno Oriente-Kordia-027-Control;12-05-2024;30-06-2024;49;teno oriente;kordia;027;control;27
+Teno Oriente-Kordia-028-Zn+Eth;09-05-2024;06-07-2024;57;teno oriente;kordia;028;zn+eth;28
+Teno Oriente-Kordia-029-Fsh;09-05-2024;05-07-2024;57;teno oriente;kordia;029;fsh;29
+Teno Oriente-Kordia-030-ABA;09-05-2024;08-07-2024;60;teno oriente;kordia;030;aba;30
+Teno Oriente-Regina-001-Zn+Eth;13-05-2024;#N/A;#N/A;teno oriente;regina;001;zn+eth;1
+Teno Oriente-Regina-002-Fsh;13-05-2024;#N/A;#N/A;teno oriente;regina;002;fsh;2
+Teno Oriente-Regina-003-Control;14-05-2024;#N/A;#N/A;teno oriente;regina;003;control;3
+Teno Oriente-Regina-004-Zn+U+Eth;13-05-2024;#N/A;#N/A;teno oriente;regina;004;zn+u+eth;4
+Teno Oriente-Regina-005-Ethephon;13-05-2024;#N/A;#N/A;teno oriente;regina;005;ethephon;5
+Teno Oriente-Regina-006-ABA;13-05-2024;#N/A;#N/A;teno oriente;regina;006;aba;6
+Teno Oriente-Regina-007-Zn+U+Eth;13-05-2024;#N/A;#N/A;teno oriente;regina;007;zn+u+eth;7
+Teno Oriente-Regina-008-Control;13-05-2024;#N/A;#N/A;teno oriente;regina;008;control;8
+Teno Oriente-Regina-009-Fsh;11-05-2024;#N/A;#N/A;teno oriente;regina;009;fsh;9
+Teno Oriente-Regina-010-ABA;09-05-2024;#N/A;#N/A;teno oriente;regina;010;aba;10
+Teno Oriente-Regina-011-Zn+Eth;13-05-2024;#N/A;#N/A;teno oriente;regina;011;zn+eth;11
+Teno Oriente-Regina-012-Ethephon;09-05-2024;#N/A;#N/A;teno oriente;regina;012;ethephon;12
+Teno Oriente-Regina-013-Zn+U+Eth;13-05-2024;#N/A;#N/A;teno oriente;regina;013;zn+u+eth;13
+Teno Oriente-Regina-014-ABA;07-05-2024;#N/A;#N/A;teno oriente;regina;014;aba;14
+Teno Oriente-Regina-015-Fsh;14-05-2024;#N/A;#N/A;teno oriente;regina;015;fsh;15
+Teno Oriente-Regina-016-Control;17-05-2024;#N/A;#N/A;teno oriente;regina;016;control;16
+Teno Oriente-Regina-017-Ethephon;10-05-2024;#N/A;#N/A;teno oriente;regina;017;ethephon;17
+Teno Oriente-Regina-018-Zn+Eth;10-05-2024;#N/A;#N/A;teno oriente;regina;018;zn+eth;18
+Teno Oriente-Regina-019-Ethephon;12-05-2024;#N/A;#N/A;teno oriente;regina;019;ethephon;19
+Teno Oriente-Regina-020-Fsh;11-05-2024;#N/A;#N/A;teno oriente;regina;020;fsh;20
+Teno Oriente-Regina-021-Zn+U+Eth;10-05-2024;#N/A;#N/A;teno oriente;regina;021;zn+u+eth;21
+Teno Oriente-Regina-022-Zn+Eth;11-05-2024;#N/A;#N/A;teno oriente;regina;022;zn+eth;22
+Teno Oriente-Regina-023-Control;13-05-2024;#N/A;#N/A;teno oriente;regina;023;control;23
+Teno Oriente-Regina-024-ABA;07-05-2024;#N/A;#N/A;teno oriente;regina;024;aba;24
+Teno Oriente-Regina-025-Zn+U+Eth;14-05-2024;#N/A;#N/A;teno oriente;regina;025;zn+u+eth;25
+Teno Oriente-Regina-026-Ethephon;14-05-2024;#N/A;#N/A;teno oriente;regina;026;ethephon;26
+Teno Oriente-Regina-027-Control;13-05-2024;#N/A;#N/A;teno oriente;regina;027;control;27
+Teno Oriente-Regina-028-Zn+Eth;09-05-2024;#N/A;#N/A;teno oriente;regina;028;zn+eth;28
+Teno Oriente-Regina-029-Fsh;14-05-2024;#N/A;#N/A;teno oriente;regina;029;fsh;29
+Teno Oriente-Regina-030-ABA;09-05-2024;#N/A;#N/A;teno oriente;regina;030;aba;30
+Teno Poniente-Regina-001-Zn+Eth;08-05-2024;13-07-2024;65;teno poniente;regina;001;zn+eth;1
+Teno Poniente-Regina-002-Fsh;07-05-2024;17-07-2024;70;teno poniente;regina;002;fsh;2
+Teno Poniente-Regina-003-Control;14-05-2024;14-07-2024;61;teno poniente;regina;003;control;3
+Teno Poniente-Regina-004-Zn+U+Eth;07-05-2024;10-07-2024;63;teno poniente;regina;004;zn+u+eth;4
+Teno Poniente-Regina-005-Ethephon;08-05-2024;14-07-2024;66;teno poniente;regina;005;ethephon;5
+Teno Poniente-Regina-006-ABA;07-05-2024;11-07-2024;64;teno poniente;regina;006;aba;6
+Teno Poniente-Regina-007-Zn+U+Eth;07-05-2024;15-07-2024;68;teno poniente;regina;007;zn+u+eth;7
+Teno Poniente-Regina-008-Control;07-05-2024;12-07-2024;66;teno poniente;regina;008;control;8
+Teno Poniente-Regina-009-Fsh;07-05-2024;16-07-2024;69;teno poniente;regina;009;fsh;9
+Teno Poniente-Regina-010-ABA;07-05-2024;12-07-2024;65;teno poniente;regina;010;aba;10
+Teno Poniente-Regina-011-Zn+Eth;08-05-2024;07-07-2024;60;teno poniente;regina;011;zn+eth;11
+Teno Poniente-Regina-012-Ethephon;08-05-2024;17-07-2024;69;teno poniente;regina;012;ethephon;12
+Teno Poniente-Regina-013-Zn+U+Eth;07-05-2024;11-07-2024;64;teno poniente;regina;013;zn+u+eth;13
+Teno Poniente-Regina-014-ABA;08-05-2024;13-07-2024;66;teno poniente;regina;014;aba;14
+Teno Poniente-Regina-015-Fsh;07-05-2024;14-07-2024;67;teno poniente;regina;015;fsh;15
+Teno Poniente-Regina-016-Control;08-05-2024;13-07-2024;65;teno poniente;regina;016;control;16
+Teno Poniente-Regina-017-Ethephon;07-05-2024;16-07-2024;69;teno poniente;regina;017;ethephon;17
+Teno Poniente-Regina-018-Zn+Eth;07-05-2024;11-07-2024;64;teno poniente;regina;018;zn+eth;18
+Teno Poniente-Regina-019-Ethephon;07-05-2024;17-07-2024;70;teno poniente;regina;019;ethephon;19
+Teno Poniente-Regina-020-Fsh;07-05-2024;16-07-2024;69;teno poniente;regina;020;fsh;20
+Teno Poniente-Regina-021-Zn+U+Eth;07-05-2024;09-07-2024;63;teno poniente;regina;021;zn+u+eth;21
+Teno Poniente-Regina-022-Zn+Eth;07-05-2024;16-07-2024;69;teno poniente;regina;022;zn+eth;22
+Teno Poniente-Regina-023-Control;08-05-2024;13-07-2024;65;teno poniente;regina;023;control;23
+Teno Poniente-Regina-024-ABA;07-05-2024;13-07-2024;66;teno poniente;regina;024;aba;24
+Teno Poniente-Regina-025-Zn+U+Eth;07-05-2024;12-07-2024;65;teno poniente;regina;025;zn+u+eth;25
+Teno Poniente-Regina-026-Ethephon;08-05-2024;14-07-2024;67;teno poniente;regina;026;ethephon;26
+Teno Poniente-Regina-027-Control;07-05-2024;13-07-2024;67;teno poniente;regina;027;control;27
+Teno Poniente-Regina-028-Zn+Eth;07-05-2024;17-07-2024;70;teno poniente;regina;028;zn+eth;28
+Teno Poniente-Regina-029-Fsh;07-05-2024;14-07-2024;68;teno poniente;regina;029;fsh;29
+Teno Poniente-Regina-030-ABA;07-05-2024;13-07-2024;66;teno poniente;regina;030;aba;30
+Teno Poniente-Santina-001-Zn+Eth;05-05-2024;08-07-2024;63;teno poniente;santina;001;zn+eth;1
+Teno Poniente-Santina-002-Fsh;08-05-2024;10-07-2024;62;teno poniente;santina;002;fsh;2
+Teno Poniente-Santina-003-Control;10-05-2024;14-07-2024;65;teno poniente;santina;003;control;3
+Teno Poniente-Santina-004-Zn+U+Eth;04-05-2024;15-07-2024;72;teno poniente;santina;004;zn+u+eth;4
+Teno Poniente-Santina-005-Ethephon;08-05-2024;07-07-2024;60;teno poniente;santina;005;ethephon;5
+Teno Poniente-Santina-006-ABA;03-05-2024;09-07-2024;67;teno poniente;santina;006;aba;6
+Teno Poniente-Santina-007-Zn+U+Eth;30-04-2024;05-07-2024;65;teno poniente;santina;007;zn+u+eth;7
+Teno Poniente-Santina-008-Control;06-05-2024;13-07-2024;67;teno poniente;santina;008;control;8
+Teno Poniente-Santina-009-Fsh;05-05-2024;16-07-2024;71;teno poniente;santina;009;fsh;9
+Teno Poniente-Santina-010-ABA;04-05-2024;10-07-2024;67;teno poniente;santina;010;aba;10
+Teno Poniente-Santina-011-Zn+Eth;03-05-2024;10-07-2024;68;teno poniente;santina;011;zn+eth;11
+Teno Poniente-Santina-012-Ethephon;09-05-2024;17-07-2024;68;teno poniente;santina;012;ethephon;12
+Teno Poniente-Santina-013-Zn+U+Eth;03-05-2024;15-07-2024;73;teno poniente;santina;013;zn+u+eth;13
+Teno Poniente-Santina-014-ABA;04-05-2024;09-07-2024;66;teno poniente;santina;014;aba;14
+Teno Poniente-Santina-015-Fsh;04-05-2024;11-07-2024;67;teno poniente;santina;015;fsh;15
+Teno Poniente-Santina-016-Control;09-05-2024;02-07-2024;53;teno poniente;santina;016;control;16
+Teno Poniente-Santina-017-Ethephon;09-05-2024;12-07-2024;64;teno poniente;santina;017;ethephon;17
+Teno Poniente-Santina-018-Zn+Eth;30-04-2024;09-07-2024;69;teno poniente;santina;018;zn+eth;18
+Teno Poniente-Santina-019-Ethephon;08-05-2024;12-07-2024;65;teno poniente;santina;019;ethephon;19
+Teno Poniente-Santina-020-Fsh;04-05-2024;11-07-2024;68;teno poniente;santina;020;fsh;20
+Teno Poniente-Santina-021-Zn+U+Eth;03-05-2024;03-07-2024;61;teno poniente;santina;021;zn+u+eth;21
+Teno Poniente-Santina-022-Zn+Eth;30-04-2024;14-07-2024;75;teno poniente;santina;022;zn+eth;22
+Teno Poniente-Santina-023-Control;09-05-2024;11-07-2024;62;teno poniente;santina;023;control;23
+Teno Poniente-Santina-024-ABA;29-04-2024;05-07-2024;66;teno poniente;santina;024;aba;24
+Teno Poniente-Santina-025-Zn+U+Eth;03-05-2024;04-07-2024;62;teno poniente;santina;025;zn+u+eth;25
+Teno Poniente-Santina-026-Ethephon;30-04-2024;12-07-2024;72;teno poniente;santina;026;ethephon;26
+Teno Poniente-Santina-027-Control;04-05-2024;09-07-2024;66;teno poniente;santina;027;control;27
+Teno Poniente-Santina-028-Zn+Eth;29-04-2024;11-07-2024;73;teno poniente;santina;028;zn+eth;28
+Teno Poniente-Santina-029-Fsh;29-04-2024;10-07-2024;72;teno poniente;santina;029;fsh;29
+Teno Poniente-Santina-030-ABA;02-05-2024;12-07-2024;70;teno poniente;santina;030;aba;30
+Viluco-Santina-001-Zn+Eth;10-05-2024;16-07-2024;66;viluco;santina;001;zn+eth;1
+Viluco-Santina-002-Fsh;11-05-2024;16-07-2024;66;viluco;santina;002;fsh;2
+Viluco-Santina-003-Control;16-05-2024;16-07-2024;60;viluco;santina;003;control;3
+Viluco-Santina-004-Zn+U+Eth;08-05-2024;16-07-2024;68;viluco;santina;004;zn+u+eth;4
+Viluco-Santina-005-Ethephon;09-05-2024;16-07-2024;67;viluco;santina;005;ethephon;5
+Viluco-Santina-006-ABA;07-05-2024;13-07-2024;66;viluco;santina;006;aba;6
+Viluco-Santina-007-Zn+U+Eth;08-05-2024;16-07-2024;68;viluco;santina;007;zn+u+eth;7
+Viluco-Santina-008-Control;10-05-2024;15-07-2024;65;viluco;santina;008;control;8
+Viluco-Santina-009-Fsh;08-05-2024;16-07-2024;68;viluco;santina;009;fsh;9
+Viluco-Santina-010-ABA;10-05-2024;16-07-2024;66;viluco;santina;010;aba;10
+Viluco-Santina-011-Zn+Eth;07-05-2024;16-07-2024;69;viluco;santina;011;zn+eth;11
+Viluco-Santina-012-Ethephon;16-05-2024;16-07-2024;60;viluco;santina;012;ethephon;12
+Viluco-Santina-013-Zn+U+Eth;04-05-2024;16-07-2024;72;viluco;santina;013;zn+u+eth;13
+Viluco-Santina-014-ABA;09-05-2024;16-07-2024;67;viluco;santina;014;aba;14
+Viluco-Santina-015-Fsh;11-05-2024;10-07-2024;60;viluco;santina;015;fsh;15
+Viluco-Santina-016-Control;15-05-2024;16-07-2024;61;viluco;santina;016;control;16
+Viluco-Santina-017-Ethephon;07-05-2024;16-07-2024;69;viluco;santina;017;ethephon;17
+Viluco-Santina-018-Zn+Eth;04-05-2024;11-07-2024;67;viluco;santina;018;zn+eth;18
+Viluco-Santina-019-Ethephon;07-05-2024;14-07-2024;67;viluco;santina;019;ethephon;19
+Viluco-Santina-020-Fsh;18-05-2024;16-07-2024;58;viluco;santina;020;fsh;20
+Viluco-Santina-021-Zn+U+Eth;07-05-2024;16-07-2024;70;viluco;santina;021;zn+u+eth;21
+Viluco-Santina-022-Zn+Eth;05-05-2024;15-07-2024;71;viluco;santina;022;zn+eth;22
+Viluco-Santina-023-Control;17-05-2024;13-07-2024;57;viluco;santina;023;control;23
+Viluco-Santina-024-ABA;05-05-2024;16-07-2024;71;viluco;santina;024;aba;24
+Viluco-Santina-025-Zn+U+Eth;08-05-2024;13-07-2024;65;viluco;santina;025;zn+u+eth;25
+Viluco-Santina-026-Ethephon;09-05-2024;12-07-2024;63;viluco;santina;026;ethephon;26
+Viluco-Santina-027-Control;09-05-2024;16-07-2024;67;viluco;santina;027;control;27
+Viluco-Santina-028-Zn+Eth;08-05-2024;15-07-2024;67;viluco;santina;028;zn+eth;28
+Viluco-Santina-029-Fsh;08-05-2024;16-07-2024;68;viluco;santina;029;fsh;29
+Viluco-Santina-030-ABA;07-05-2024;16-07-2024;70;viluco;santina;030;aba;30
+Wapri (Los Niches 1)-Kordia-001-Zn+Eth;11-05-2024;05-07-2024;54;wapri (los niches 1);kordia;001;zn+eth;1
+Wapri (Los Niches 1)-Kordia-002-Fsh;10-05-2024;21-07-2024;71;wapri (los niches 1);kordia;002;fsh;2
+Wapri (Los Niches 1)-Kordia-003-Control;05-05-2024;07-07-2024;63;wapri (los niches 1);kordia;003;control;3
+Wapri (Los Niches 1)-Kordia-004-Zn+U+Eth;29-04-2024;08-07-2024;70;wapri (los niches 1);kordia;004;zn+u+eth;4
+Wapri (Los Niches 1)-Kordia-005-Ethephon;14-05-2024;16-07-2024;62;wapri (los niches 1);kordia;005;ethephon;5
+Wapri (Los Niches 1)-Kordia-006-ABA;12-05-2024;11-07-2024;60;wapri (los niches 1);kordia;006;aba;6
+Wapri (Los Niches 1)-Kordia-007-Zn+U+Eth;10-05-2024;09-07-2024;60;wapri (los niches 1);kordia;007;zn+u+eth;7
+Wapri (Los Niches 1)-Kordia-008-Control;09-05-2024;07-07-2024;59;wapri (los niches 1);kordia;008;control;8
+Wapri (Los Niches 1)-Kordia-009-Fsh;11-05-2024;09-07-2024;59;wapri (los niches 1);kordia;009;fsh;9
+Wapri (Los Niches 1)-Kordia-010-ABA;10-05-2024;09-07-2024;60;wapri (los niches 1);kordia;010;aba;10
+Wapri (Los Niches 1)-Kordia-011-Zn+Eth;10-05-2024;12-07-2024;62;wapri (los niches 1);kordia;011;zn+eth;11
+Wapri (Los Niches 1)-Kordia-012-Ethephon;09-05-2024;17-07-2024;69;wapri (los niches 1);kordia;012;ethephon;12
+Wapri (Los Niches 1)-Kordia-013-Zn+U+Eth;09-05-2024;09-07-2024;61;wapri (los niches 1);kordia;013;zn+u+eth;13
+Wapri (Los Niches 1)-Kordia-014-ABA;06-05-2024;08-07-2024;63;wapri (los niches 1);kordia;014;aba;14
+Wapri (Los Niches 1)-Kordia-015-Fsh;03-05-2024;10-07-2024;67;wapri (los niches 1);kordia;015;fsh;15
+Wapri (Los Niches 1)-Kordia-016-Control;02-05-2024;11-07-2024;69;wapri (los niches 1);kordia;016;control;16
+Wapri (Los Niches 1)-Kordia-017-Ethephon;03-05-2024;07-07-2024;64;wapri (los niches 1);kordia;017;ethephon;17
+Wapri (Los Niches 1)-Kordia-018-Zn+Eth;10-05-2024;14-07-2024;65;wapri (los niches 1);kordia;018;zn+eth;18
+Wapri (Los Niches 1)-Kordia-019-Ethephon;14-05-2024;13-07-2024;60;wapri (los niches 1);kordia;019;ethephon;19
+Wapri (Los Niches 1)-Kordia-020-Fsh;10-05-2024;10-07-2024;61;wapri (los niches 1);kordia;020;fsh;20
+Wapri (Los Niches 1)-Kordia-021-Zn+U+Eth;15-05-2024;11-07-2024;56;wapri (los niches 1);kordia;021;zn+u+eth;21
+Wapri (Los Niches 1)-Kordia-022-Zn+Eth;09-05-2024;13-07-2024;65;wapri (los niches 1);kordia;022;zn+eth;22
+Wapri (Los Niches 1)-Kordia-023-Control;14-05-2024;13-07-2024;59;wapri (los niches 1);kordia;023;control;23
+Wapri (Los Niches 1)-Kordia-024-ABA;06-05-2024;06-07-2024;61;wapri (los niches 1);kordia;024;aba;24
+Wapri (Los Niches 1)-Kordia-025-Zn+U+Eth;09-05-2024;06-07-2024;58;wapri (los niches 1);kordia;025;zn+u+eth;25
+Wapri (Los Niches 1)-Kordia-026-Ethephon;09-05-2024;08-07-2024;59;wapri (los niches 1);kordia;026;ethephon;26
+Wapri (Los Niches 1)-Kordia-027-Control;15-05-2024;09-07-2024;55;wapri (los niches 1);kordia;027;control;27
+Wapri (Los Niches 1)-Kordia-028-Zn+Eth;10-05-2024;12-07-2024;63;wapri (los niches 1);kordia;028;zn+eth;28
+Wapri (Los Niches 1)-Kordia-029-Fsh;09-05-2024;13-07-2024;64;wapri (los niches 1);kordia;029;fsh;29
+Wapri (Los Niches 1)-Kordia-030-ABA;06-05-2024;04-07-2024;59;wapri (los niches 1);kordia;030;aba;30
+Wapri (Los Niches 1)-Regina-001-Zn+Eth;12-05-2024;19-07-2024;68;wapri (los niches 1);regina;001;zn+eth;1
+Wapri (Los Niches 1)-Regina-002-Fsh;06-05-2024;21-07-2024;75;wapri (los niches 1);regina;002;fsh;2
+Wapri (Los Niches 1)-Regina-003-Control;13-05-2024;19-07-2024;67;wapri (los niches 1);regina;003;control;3
+Wapri (Los Niches 1)-Regina-004-Zn+U+Eth;06-05-2024;20-07-2024;74;wapri (los niches 1);regina;004;zn+u+eth;4
+Wapri (Los Niches 1)-Regina-005-Ethephon;12-05-2024;21-07-2024;69;wapri (los niches 1);regina;005;ethephon;5
+Wapri (Los Niches 1)-Regina-006-ABA;05-05-2024;18-07-2024;74;wapri (los niches 1);regina;006;aba;6
+Wapri (Los Niches 1)-Regina-007-Zn+U+Eth;06-05-2024;21-07-2024;75;wapri (los niches 1);regina;007;zn+u+eth;7
+Wapri (Los Niches 1)-Regina-008-Control;12-05-2024;20-07-2024;69;wapri (los niches 1);regina;008;control;8
+Wapri (Los Niches 1)-Regina-009-Fsh;07-05-2024;21-07-2024;74;wapri (los niches 1);regina;009;fsh;9
+Wapri (Los Niches 1)-Regina-010-ABA;06-05-2024;21-07-2024;75;wapri (los niches 1);regina;010;aba;10
+Wapri (Los Niches 1)-Regina-011-Zn+Eth;12-05-2024;21-07-2024;69;wapri (los niches 1);regina;011;zn+eth;11
+Wapri (Los Niches 1)-Regina-012-Ethephon;12-05-2024;21-07-2024;69;wapri (los niches 1);regina;012;ethephon;12
+Wapri (Los Niches 1)-Regina-013-Zn+U+Eth;08-05-2024;21-07-2024;73;wapri (los niches 1);regina;013;zn+u+eth;13
+Wapri (Los Niches 1)-Regina-014-ABA;06-05-2024;21-07-2024;76;wapri (los niches 1);regina;014;aba;14
+Wapri (Los Niches 1)-Regina-015-Fsh;08-05-2024;21-07-2024;73;wapri (los niches 1);regina;015;fsh;15
+Wapri (Los Niches 1)-Regina-016-Control;11-05-2024;21-07-2024;70;wapri (los niches 1);regina;016;control;16
+Wapri (Los Niches 1)-Regina-017-Ethephon;12-05-2024;21-07-2024;69;wapri (los niches 1);regina;017;ethephon;17
+Wapri (Los Niches 1)-Regina-018-Zn+Eth;08-05-2024;21-07-2024;73;wapri (los niches 1);regina;018;zn+eth;18
+Wapri (Los Niches 1)-Regina-019-Ethephon;12-05-2024;19-07-2024;68;wapri (los niches 1);regina;019;ethephon;19
+Wapri (Los Niches 1)-Regina-020-Fsh;12-05-2024;21-07-2024;69;wapri (los niches 1);regina;020;fsh;20
+Wapri (Los Niches 1)-Regina-021-Zn+U+Eth;08-05-2024;21-07-2024;73;wapri (los niches 1);regina;021;zn+u+eth;21
+Wapri (Los Niches 1)-Regina-022-Zn+Eth;07-05-2024;21-07-2024;74;wapri (los niches 1);regina;022;zn+eth;22
+Wapri (Los Niches 1)-Regina-023-Control;12-05-2024;21-07-2024;69;wapri (los niches 1);regina;023;control;23
+Wapri (Los Niches 1)-Regina-024-ABA;08-05-2024;21-07-2024;73;wapri (los niches 1);regina;024;aba;24
+Wapri (Los Niches 1)-Regina-025-Zn+U+Eth;07-05-2024;21-07-2024;74;wapri (los niches 1);regina;025;zn+u+eth;25
+Wapri (Los Niches 1)-Regina-026-Ethephon;07-05-2024;21-07-2024;74;wapri (los niches 1);regina;026;ethephon;26
+Wapri (Los Niches 1)-Regina-027-Control;12-05-2024;20-07-2024;68;wapri (los niches 1);regina;027;control;27
+Wapri (Los Niches 1)-Regina-028-Zn+Eth;06-05-2024;20-07-2024;74;wapri (los niches 1);regina;028;zn+eth;28
+Wapri (Los Niches 1)-Regina-029-Fsh;08-05-2024;20-07-2024;72;wapri (los niches 1);regina;029;fsh;29
+Wapri (Los Niches 1)-Regina-030-ABA;08-05-2024;19-07-2024;72;wapri (los niches 1);regina;030;aba;30
