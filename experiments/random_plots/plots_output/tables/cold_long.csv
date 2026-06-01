@@ -1,0 +1,31 @@
+zona,variedad,modelo,horas_frio_promedio,horas_frio_std,horas_frio_min,horas_frio_max,n_observaciones,zona_variedad
+melipilla,santina,chill_hours,404.6,51.451919303365166,352.0,490.0,5,melipilla | santina
+melipilla,santina,utah_cu,607.3,43.7444282166312,562.0,680.0,5,melipilla | santina
+melipilla,santina,utah_positivo,718.0,49.40394721072396,670.0,801.5,5,melipilla | santina
+pichidegua,santina,chill_hours,449.8,53.718711823721165,379.0,522.0,5,pichidegua | santina
+pichidegua,santina,utah_cu,672.1,37.764732224656385,613.5,712.5,5,pichidegua | santina
+pichidegua,santina,utah_positivo,707.6,37.764732224656385,649.0,748.0,5,pichidegua | santina
+santa ana,regina,chill_hours,718.2,35.39350222851646,656.0,745.0,5,santa ana | regina
+santa ana,regina,utah_cu,872.2,39.75644601822451,803.0,901.0,5,santa ana | regina
+santa ana,regina,utah_positivo,905.2,39.75644601822451,836.0,934.0,5,santa ana | regina
+santa ana,santina,chill_hours,661.8,95.57824020141824,500.0,746.0,5,santa ana | santina
+santa ana,santina,utah_cu,860.6,60.61497339766801,764.0,914.0,5,santa ana | santina
+santa ana,santina,utah_positivo,893.7,61.941101055761024,795.0,948.0,5,santa ana | santina
+santa magdalena,regina,chill_hours,945.8,44.9521968317456,871.0,981.0,5,santa magdalena | regina
+santa magdalena,regina,utah_cu,1009.3,52.62318880493655,928.5,1056.5,5,santa magdalena | regina
+santa magdalena,regina,utah_positivo,1051.8,52.62318880493655,971.0,1099.0,5,santa magdalena | regina
+sarmiento,kordia,chill_hours,471.0,92.99193513418248,347.0,558.0,5,sarmiento | kordia
+sarmiento,kordia,utah_cu,654.9,38.455168703309575,595.0,690.0,5,sarmiento | kordia
+sarmiento,kordia,utah_positivo,685.6,40.907517646515785,621.5,724.0,5,sarmiento | kordia
+teno prado,kordia,chill_hours,347.4,26.819768828235635,313.0,376.0,5,teno prado | kordia
+teno prado,kordia,utah_cu,606.3,24.603353429969665,575.5,633.0,5,teno prado | kordia
+teno prado,kordia,utah_positivo,618.6,25.29673892026401,587.0,646.0,5,teno prado | kordia
+viluco,santina,chill_hours,547.8,60.931929232546054,463.0,620.0,5,viluco | santina
+viluco,santina,utah_cu,714.7,46.72338814769322,659.5,769.0,5,viluco | santina
+viluco,santina,utah_positivo,814.9,49.18383880910478,757.0,873.0,5,viluco | santina
+wapri,kordia,chill_hours,630.0,77.30135833217939,538.0,748.0,5,wapri | kordia
+wapri,kordia,utah_cu,772.1,72.43393541704054,691.5,872.0,5,wapri | kordia
+wapri,kordia,utah_positivo,813.3,73.90585227165707,731.5,915.0,5,wapri | kordia
+wapri,regina,chill_hours,795.8,23.97290136800301,760.0,825.0,5,wapri | regina
+wapri,regina,utah_cu,852.0,19.51922129594312,821.0,874.5,5,wapri | regina
+wapri,regina,utah_positivo,892.4,19.907285098676827,861.0,915.5,5,wapri | regina

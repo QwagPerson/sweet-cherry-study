@@ -1,0 +1,25 @@
+zona,variedad,modelo,horas_calor_promedio,horas_calor_std,horas_calor_min,horas_calor_max,n_observaciones,zona_variedad
+melipilla,santina,heat_hours,175.0,7.968688725254614,168.0,188.0,5,melipilla | santina
+melipilla,santina,hgc,6447.910099999999,540.8653459465132,5919.062033333334,7340.0012,5,melipilla | santina
+pichidegua,santina,heat_hours,92.8,13.292855223765883,72.0,106.0,5,pichidegua | santina
+pichidegua,santina,hgc,4682.813233333333,526.3638089439218,4095.817,5433.166166666668,5,pichidegua | santina
+santa ana,regina,heat_hours,54.0,0.0,54.0,54.0,5,santa ana | regina
+santa ana,regina,hgc,4084.396833333333,204.87261163952627,3979.716833333333,4450.1168333333335,5,santa ana | regina
+santa ana,santina,heat_hours,48.0,0.0,48.0,48.0,5,santa ana | santina
+santa ana,santina,hgc,3949.142666666666,249.4748784948096,3681.842666666667,4169.742666666667,5,santa ana | santina
+santa magdalena,regina,heat_hours,68.0,0.0,68.0,68.0,5,santa magdalena | regina
+santa magdalena,regina,hgc,3546.987166666667,104.29552722911949,3444.0671666666667,3673.067166666667,5,santa magdalena | regina
+sarmiento,kordia,heat_hours,92.8,2.6832815729997477,88.0,94.0,5,sarmiento | kordia
+sarmiento,kordia,hgc,5584.983333333334,269.9733838733,5127.023333333333,5832.423333333333,5,sarmiento | kordia
+sarmiento,regina,heat_hours,71.0,0.0,71.0,71.0,5,sarmiento | regina
+sarmiento,regina,hgc,4634.624833333333,114.35565136887668,4526.4248333333335,4758.724833333334,5,sarmiento | regina
+teno prado,kordia,heat_hours,60.2,1.7888543819998322,59.0,63.0,5,teno prado | kordia
+teno prado,kordia,hgc,4650.589,234.59475058065553,4286.169,4912.269,5,teno prado | kordia
+teno prado,regina,heat_hours,56.6,3.2863353450309964,53.0,59.0,5,teno prado | regina
+teno prado,regina,hgc,3751.349,263.126342276861,3364.069,3958.8689999999992,5,teno prado | regina
+viluco,santina,heat_hours,136.0,17.97220075561143,125.0,168.0,5,viluco | santina
+viluco,santina,hgc,5217.184533333333,577.9880799070676,4783.078333333333,6215.879833333333,5,viluco | santina
+wapri,kordia,heat_hours,93.4,1.3416407864998734,91.0,94.0,5,wapri | kordia
+wapri,kordia,hgc,3617.7538,70.08209816196529,3519.223,3717.4395,5,wapri | kordia
+wapri,regina,heat_hours,101.0,0.0,101.0,101.0,5,wapri | regina
+wapri,regina,hgc,4814.672833333333,14.35033100663532,4804.1928333333335,4830.392833333333,5,wapri | regina
