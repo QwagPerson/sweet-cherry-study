@@ -29,7 +29,7 @@ def normalize_tratamiento(df):
         'Zn+U+Eth'                              : 'ETH + ZN + U',
         # Confirmar dosis? de esto
         'DORMEX 2% + 2% Ac. Mineral'            : 'C.H. 1% (i.a.) + Ac. Min. 2%',
-        'DORMEX 3% + BREAK'                     : 'C.H. 1% (i.a.)',
+        'DORMEX 3% + BREAK'                     : 'C.H. 1.5% (i.a.)',
         'ERGER 5% + Nca 6%'                     : 'Erger 5% (p.c.) + N. Ca 6%',
         'CH+Break'                              : 'C.H. 1% (i.a.)',
         'CH+AcMin'                              : 'C.H. 1% (i.a.) + Ac. Min. 2%',
