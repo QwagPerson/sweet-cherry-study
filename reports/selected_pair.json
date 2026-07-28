@@ -1,0 +1,20 @@
+{
+  "thermal_pair": "chill_10__gdh_4_5",
+  "model_name": "ridge",
+  "validation_strategy": "GroupKFold_lugar_variedad_temporada",
+  "n_observaciones": 661,
+  "n_pred_fecha_fin_frio_validas": 661,
+  "n_pred_fecha_brotacion_validas": 661,
+  "porcentaje_pred_fecha_brotacion_valida": 100.0,
+  "r2_requisito_frio": 0.42918169488384017,
+  "mae_requisito_frio": 172.96913198373954,
+  "r2_requisito_calor": 0.7697336563196625,
+  "mae_requisito_calor": 754.7792766776931,
+  "r2_fecha_fin_frio": 0.996284631016865,
+  "mae_fecha_fin_frio_dias": 9.314762871088277,
+  "r2_fecha_brotacion": 0.9992136850146919,
+  "mae_fecha_brotacion_dias": 3.869975206617359,
+  "porcentaje_error_menor_igual_3_dias": 41.75491679273828,
+  "porcentaje_error_menor_igual_5_dias": 71.10438729198184,
+  "porcentaje_error_menor_igual_7_dias": 90.16641452344932
+}
