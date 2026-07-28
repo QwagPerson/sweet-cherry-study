@@ -25,13 +25,38 @@ def r2_score_oof(y_true: pd.Series, y_pred: pd.Series) -> float:
 
 
 def date_to_days(values: pd.Series) -> pd.Series:
-    dates = pd.to_datetime(values, errors="coerce")
-    return dates.map(lambda value: value.toordinal() if pd.notna(value) else np.nan)
+    dates = pd.to_datetime(values, errors="coerce", format="mixed")
+    return dates.map(
+        lambda value: (
+            value.toordinal()
+            + (
+                value.hour * 3600
+                + value.minute * 60
+                + value.second
+                + value.microsecond / 1_000_000
+            )
+            / 86_400
+        )
+        if pd.notna(value)
+        else np.nan
+    )
+
+
+def date_to_season_days(values: pd.Series, seasons: pd.Series) -> pd.Series:
+    dates = pd.to_datetime(values, errors="coerce", format="mixed")
+    season_values = pd.to_numeric(seasons, errors="coerce")
+    bases = pd.Series(pd.NaT, index=values.index, dtype="datetime64[ns]")
+    valid_seasons = season_values.notna()
+    bases.loc[valid_seasons] = pd.to_datetime(
+        season_values.loc[valid_seasons].astype(int).astype(str) + "-04-01",
+        errors="coerce",
+    )
+    return (dates - bases) / pd.Timedelta(days=1)
 
 
 def date_error_days(actual: pd.Series, predicted: pd.Series) -> pd.Series:
-    actual_dates = pd.to_datetime(actual, errors="coerce")
-    predicted_dates = pd.to_datetime(predicted, errors="coerce")
+    actual_dates = pd.to_datetime(actual, errors="coerce", format="mixed")
+    predicted_dates = pd.to_datetime(predicted, errors="coerce", format="mixed")
     return (predicted_dates - actual_dates) / pd.Timedelta(days=1)
 
 

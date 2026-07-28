@@ -6,6 +6,7 @@ from src.evaluation.grouped_cv import make_validation_folds
 from src.evaluation.metrics import (
     date_error_days,
     date_to_days,
+    date_to_season_days,
     mae,
     percent_abs_error_leq,
     r2_score_oof,
@@ -151,11 +152,25 @@ def evaluate_pair_model(
         ),
         "mae_requisito_calor": mae(oof[heat_target], oof["pred_requisito_calor"]),
         "r2_fecha_fin_frio": r2_score_oof(
+            date_to_season_days(
+                oof["fecha_brotacion_camara_50"],
+                oof["temporada"],
+            ),
+            date_to_season_days(oof["pred_fecha_fin_frio"], oof["temporada"]),
+        ),
+        "r2_fecha_fin_frio_calendario_absoluto": r2_score_oof(
             date_to_days(oof["fecha_brotacion_camara_50"]),
             date_to_days(oof["pred_fecha_fin_frio"]),
         ),
         "mae_fecha_fin_frio_dias": float(error_fin_frio.abs().mean()),
         "r2_fecha_brotacion": r2_score_oof(
+            date_to_season_days(
+                oof["fecha_brotacion_campo_50"],
+                oof["temporada"],
+            ),
+            date_to_season_days(oof["pred_fecha_brotacion"], oof["temporada"]),
+        ),
+        "r2_fecha_brotacion_calendario_absoluto": r2_score_oof(
             date_to_days(oof["fecha_brotacion_campo_50"]),
             date_to_days(oof["pred_fecha_brotacion"]),
         ),

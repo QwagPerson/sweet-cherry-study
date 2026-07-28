@@ -1,2 +1,5 @@
 pandas
 numpy
+jinja2
+plotly
+pytest
