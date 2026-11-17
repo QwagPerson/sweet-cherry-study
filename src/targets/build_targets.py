@@ -13,7 +13,7 @@ def _build_cumulative_by_place(
     cumulative: dict[str, tuple[np.ndarray, np.ndarray]] = {}
     for code, zone in temperatures.sort_values("ds").groupby("codigo_lugar"):
         values = thermal_function(zone["temperatura_c"]).cumsum().to_numpy(dtype=float)
-        times = zone["ds"].astype("int64").to_numpy()
+        times = zone["ds"].astype("datetime64[ns]").astype("int64").to_numpy()
         cumulative[str(code)] = (times, values)
     return cumulative
 

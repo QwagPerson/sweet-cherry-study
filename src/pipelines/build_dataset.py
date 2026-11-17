@@ -1,14 +1,17 @@
 from __future__ import annotations
 
 from pathlib import Path
+import hashlib
+import json
 
 import pandas as pd
 
-from src.data.load_data import PROJECT_ROOT, load_phenology, load_temperatures
+from src.data.load_data import PROJECT_ROOT, DEFAULT_SILVER_ROOT, load_phenology, load_temperatures
 from src.data.variable_dictionary import build_variable_dictionary
 from src.features.experimental_unit_features import add_experimental_unit_features
 from src.features.place_features import build_place_season_features
 from src.targets.build_targets import add_thermal_targets
+from src.data.temperature_support import temperature_support_by_unit
 
 
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
@@ -45,6 +48,13 @@ def build_modeling_dataset() -> pd.DataFrame:
 
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     dataset.to_csv(DATASET_PATH, index=False)
+    reports_dir = PROJECT_ROOT / "reports"
+    reports_dir.mkdir(parents=True, exist_ok=True)
+    temperature_support_by_unit(dataset, temperatures).to_csv(
+        reports_dir / "temperature_support_by_unit.csv", index=False
+    )
+    source_path=DEFAULT_SILVER_ROOT / "temperaturas_horarias_por_lugar.csv"
+    DATASET_PATH.with_suffix(".sources.json").write_text(json.dumps({"temperature_sha256":hashlib.sha256(source_path.read_bytes()).hexdigest(),"temperature_source":str(source_path),"climatology_mode":"retrospective"},indent=2),encoding="utf-8")
     variable_dictionary = build_variable_dictionary(dataset)
     variable_dictionary.to_csv(VARIABLE_DICTIONARY_PATH, index=False)
 

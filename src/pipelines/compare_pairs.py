@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import hashlib
 from pathlib import Path
 
 import pandas as pd
@@ -22,7 +23,12 @@ LIMITATIONS_PATH = REPORTS_DIR / "leakage_and_limitations.md"
 
 
 def load_or_build_dataset() -> pd.DataFrame:
-    if DATASET_PATH.exists():
+    manifest_path = DATASET_PATH.with_suffix(".sources.json")
+    from src.data.load_data import DEFAULT_SILVER_ROOT
+    from src.data.schemas import TEMPERATURE_FILE
+    source_path = DEFAULT_SILVER_ROOT / TEMPERATURE_FILE
+    source_hash = hashlib.sha256(source_path.read_bytes()).hexdigest()
+    if DATASET_PATH.exists() and manifest_path.exists() and json.loads(manifest_path.read_text(encoding="utf-8")).get("temperature_sha256") == source_hash:
         return pd.read_csv(
             DATASET_PATH,
             parse_dates=[
@@ -72,6 +78,8 @@ def write_limitations() -> None:
 - El modelo `dynamic_proxy__gdh_4_5` no es una implementacion biofisica completa de porciones de frio; es un proxy para comparar la interfaz.
 - XGBoost, GAM y modelos jerarquicos quedan preparados como extensiones, pero no se ejecutan en esta version para evitar dependencias no instaladas.
 - La incertidumbre operacional todavia no esta calibrada; esta iteracion solo produce error historico out-of-fold.
+- Las temperaturas silver son una reconstruccion retrospectiva: conservan observaciones FIA 2025 y separan interpolacion de huecos completos <=6h de climatologia. La climatologia puede usar 2026 para reconstruir 2025; estos resultados no son un backtest disponible a una fecha historica.
+- Los targets y features pueden incluir temperaturas imputadas. Consultar temperature_support_by_unit.csv antes de interpretar los requisitos como evidencia medida. FIA 2024 completa las horas sin observaciones del consolidado, incluido Melipilla; se conserva Global como hoja canónica y los detalles solo completan horas ausentes.
 """,
         encoding="utf-8",
     )

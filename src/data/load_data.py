@@ -65,11 +65,11 @@ def load_phenology(silver_root: Path = DEFAULT_SILVER_ROOT) -> pd.DataFrame:
 
 def load_temperatures(silver_root: Path = DEFAULT_SILVER_ROOT) -> pd.DataFrame:
     path = silver_root / TEMPERATURE_FILE
-    temperatures = pd.read_csv(path)
+    temperatures = pd.read_csv(path, low_memory=False)
     require_columns(temperatures, REQUIRED_TEMPERATURE_COLUMNS, str(path))
     require_non_empty(temperatures, "temperaturas")
 
-    temperatures["ds"] = pd.to_datetime(temperatures["ds"], errors="coerce")
+    temperatures["ds"] = pd.to_datetime(temperatures["ds"], errors="coerce").astype("datetime64[ns]")
     temperatures["temperatura_c"] = pd.to_numeric(
         temperatures["temperatura_c"], errors="coerce"
     )

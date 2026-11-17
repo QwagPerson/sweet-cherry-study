@@ -15,7 +15,7 @@ def build_thermal_lookup(
 ) -> dict[str, tuple[np.ndarray, np.ndarray]]:
     lookup: dict[str, tuple[np.ndarray, np.ndarray]] = {}
     for code, zone in temperatures.sort_values("ds").groupby("codigo_lugar"):
-        times = zone["ds"].astype("int64").to_numpy()
+        times = zone["ds"].astype("datetime64[ns]").astype("int64").to_numpy()
         increments = thermal_function(zone["temperatura_c"]).to_numpy(dtype=float)
         lookup[str(code)] = (times, increments)
     return lookup
